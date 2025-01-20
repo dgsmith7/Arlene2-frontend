@@ -1,3 +1,6 @@
+.env
+/scratch
+
 # Logs
 logs
 *.log
